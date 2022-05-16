@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2022-05-16
+
+### Build
+
+- :construction_worker: added git cliff to the mix
+- :construction_worker: added release script
+- :bulb: initial commit
+
 ## [unreleased]
 
 ### Build
