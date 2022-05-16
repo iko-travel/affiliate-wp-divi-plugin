@@ -1,10 +1,12 @@
 === iko.travel for Divi ===
-Contributors: MB-Jan
+Contributors: MB-Jan, ikotravel
 Tags: travel, iko, booking
 Requires at least: 4.7
-Tested up to: 5.7.2
+Tested up to: 6.0
+Stable tag: 1.2.10
+Version: 1.2.10
 Stable tag: 4.3
-Requires PHP: 7.3
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
